@@ -12,6 +12,8 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Philippe was here!");
+            Console.WriteLine("Second time Philippe was here!");
+
         }
     }
 }
