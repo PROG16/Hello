@@ -25,6 +25,9 @@ namespace HelloWorld
             Console.WriteLine("Andreas was also here omg!!");
             Console.WriteLine("Nu blir det en mergekonflikt - som jag löst!");
             Console.WriteLine("Patrik too");
+            Console.WriteLine("Matilda was here!");
+            Console.WriteLine("Patrik too");
+            Console.ReadLine();
         }
 
         internal class Jesper
@@ -33,6 +36,6 @@ namespace HelloWorld
             {
                 return "Jesper was here";
             }            
-        }
+        }        
     }
 }
