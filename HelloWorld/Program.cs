@@ -19,14 +19,6 @@ namespace HelloWorld
             Console.WriteLine("Fredrik was here!");
             Console.WriteLine("Patrik too");
             Console.WriteLine(jesper.Speak());
-        }
-
-        internal class Jesper
-        {
-            public string Speak()
-            {
-                return "Jesper was here";
-            }
             Console.WriteLine("Isabella");
             Console.WriteLine("Fredrik was here!");
             Console.WriteLine("Erik Jonson was here");
@@ -36,6 +28,19 @@ namespace HelloWorld
             Console.WriteLine("Andreas was also here omg!!");
             Console.WriteLine("Nu blir det en mergekonflikt - som jag löst!");
             Console.WriteLine("Patrik too");
+            Console.WriteLine("Anna was here!");
         }
+            Console.WriteLine("Matilda was here!");
+            Console.WriteLine("Patrik too");
+            Console.ReadLine();
+        }
+
+        internal class Jesper
+        {
+            public string Speak()
+            {
+                return "Jesper was here";
+            }            
+        }        
     }
 }
