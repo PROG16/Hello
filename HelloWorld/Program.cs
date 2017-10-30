@@ -23,6 +23,9 @@ namespace HelloWorld
             {
                 return "Jesper was here";
             }
+            Console.WriteLine("Isabella");
+            Console.WriteLine("Philippe was here!");
+            Console.WriteLine("Andreas was also here omg!!");
         }
     }
 }
