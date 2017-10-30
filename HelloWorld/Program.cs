@@ -31,7 +31,7 @@ namespace HelloWorld
             Console.WriteLine("Anna was here!");
             Console.WriteLine("Matilda was here!");
             Console.WriteLine("Patrik too");
-            Console.WriteLine("Cornelia här på avstånd. :) Vi ses imorgon!");
+            Console.WriteLine("Cornelia här på avstånd. :) Vi ses imorgon! (Testar att faktiskt merga nu)");
             Console.WriteLine("Tanja was here!");
             Console.WriteLine("Second time Philippe was here!");
             Console.ReadLine();                    
