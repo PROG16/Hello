@@ -27,6 +27,7 @@ namespace HelloWorld
             Console.WriteLine("Patrik too");
             Console.WriteLine("Matilda was here!");
             Console.WriteLine("Patrik too");
+            Console.ReadLine();
             Console.WriteLine("Tanja was here!");
         }
 
@@ -36,6 +37,6 @@ namespace HelloWorld
             {
                 return "Jesper was here";
             }            
-        }
+        }        
     }
 }
