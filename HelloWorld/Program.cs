@@ -11,6 +11,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Philippe was here!");
             Console.WriteLine("Fredrik was here!");
             Console.WriteLine("Klas was here!");
         }
