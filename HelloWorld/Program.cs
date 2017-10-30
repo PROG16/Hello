@@ -12,6 +12,10 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Khalid was here!");
+            Console.WriteLine("Fredrik was here!");
+            Console.WriteLine("Isabella");
+            Console.WriteLine("Philippe was here!");
+            Console.WriteLine("Andreas was also here omg!!");
         }
     }
 }
