@@ -42,6 +42,8 @@ namespace HelloWorld
             {
                 return "Jesper was here";
             }            
-        }        
+            Console.WriteLine("Second time Philippe was here!");
+
+        }
     }
 }
