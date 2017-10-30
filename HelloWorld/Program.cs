@@ -12,7 +12,8 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Fredrik was here!");
-            Console.WriteLine("Nu blir det en mergekonflikt!");
+            Console.WriteLine("Nu blir det en mergekonflikt - som jag löst!");
+            Console.WriteLine("Patrik too");
         }
     }
 }
