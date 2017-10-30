@@ -12,6 +12,9 @@ namespace HelloWorld
         {
             var jesper = new Jesper();
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Philippe was here!");
+            Console.WriteLine("Fredrik was here!");
+            Console.WriteLine("Klas was here!");
             Console.WriteLine("Khalid was here!");
             Console.WriteLine("Fredrik was here!");
             Console.WriteLine("Patrik too");
@@ -26,12 +29,10 @@ namespace HelloWorld
             Console.WriteLine("Nu blir det en mergekonflikt - som jag löst!");
             Console.WriteLine("Patrik too");
             Console.WriteLine("Anna was here!");
-        }
             Console.WriteLine("Matilda was here!");
             Console.WriteLine("Patrik too");
             Console.ReadLine();
-        }
-
+        }         
         internal class Jesper
         {
             public string Speak()
