@@ -12,16 +12,8 @@ namespace HelloWorld
         {
             var jesper = new Jesper();
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Fredrik was here!!!");
-            Console.WriteLine(jesper.Speak());
+            Console.WriteLine("Fredrik was here!");
+            Console.WriteLine("Patrik too");
         }
     }
-
-    internal class Jesper
-    {
-        public string Speak()
-    {
-        return "Jesper was here";
-    }                           
-}
 }
