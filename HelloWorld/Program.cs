@@ -13,6 +13,8 @@ namespace HelloWorld
             Console.WriteLine("Hello World!");
             Console.WriteLine("Fredrik was here!");
             Console.WriteLine("Isabella");
+            Console.WriteLine("Fredrik was here!");
+            Console.WriteLine("Erik Jonson was here");
             Console.WriteLine("Philippe was here!");
             Console.WriteLine("Andreas was also here omg!!");
             Console.WriteLine("Nu blir det en mergekonflikt - som jag löst!");
