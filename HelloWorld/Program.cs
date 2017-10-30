@@ -10,8 +10,18 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            var jesper = new Jesper();
             Console.WriteLine("Hello World!");
             Console.WriteLine("Fredrik was here!!!");
+            Console.WriteLine(jesper.Speak());
         }
     }
+
+    internal class Jesper
+    {
+        public string Speak()
+    {
+        return "Jesper was here";
+    }                           
+}
 }
