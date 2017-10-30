@@ -14,6 +14,15 @@ namespace HelloWorld
             Console.WriteLine("Hello World!");
             Console.WriteLine("Fredrik was here!");
             Console.WriteLine("Patrik too");
+            Console.WriteLine(jesper.Speak());
+        }
+
+        internal class Jesper
+        {
+            public string Speak()
+            {
+                return "Jesper was here";
+            }
         }
     }
 }
