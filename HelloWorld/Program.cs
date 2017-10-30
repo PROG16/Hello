@@ -26,12 +26,10 @@ namespace HelloWorld
             Console.WriteLine("Nu blir det en mergekonflikt - som jag löst!");
             Console.WriteLine("Patrik too");
             Console.WriteLine("Anna was here!");
-        }
             Console.WriteLine("Matilda was here!");
             Console.WriteLine("Patrik too");
             Console.ReadLine();
-        }
-
+        }         
         internal class Jesper
         {
             public string Speak()
