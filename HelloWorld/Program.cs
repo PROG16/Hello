@@ -14,6 +14,8 @@ namespace HelloWorld
             Console.WriteLine("Fredrik was here!");
             Console.WriteLine("Isabella");
             Console.WriteLine("Philippe was here!");
+            Console.WriteLine("Fredrik was here!");
+            Console.WriteLine("Patrik too");
         }
     }
 }
