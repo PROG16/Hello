@@ -32,9 +32,9 @@ namespace HelloWorld
             Console.WriteLine("Matilda was here!");
             Console.WriteLine("Patrik too");
             Console.WriteLine("Cornelia här på avstånd. :) Vi ses imorgon!");
-            Console.ReadLine();
-        }         
             Console.WriteLine("Tanja was here!");
+            Console.WriteLine("Second time Philippe was here!");
+            Console.ReadLine();                    
         }
 
         internal class Jesper
@@ -42,9 +42,7 @@ namespace HelloWorld
             public string Speak()
             {
                 return "Jesper was here";
-            }            
-            Console.WriteLine("Second time Philippe was here!");
-
+            }          
         }
     }
 }
