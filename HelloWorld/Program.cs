@@ -12,6 +12,9 @@ namespace HelloWorld
         {
             var jesper = new Jesper();
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Philippe was here!");
+            Console.WriteLine("Fredrik was here!");
+            Console.WriteLine("Klas was here!");
             Console.WriteLine("Khalid was here!");
             Console.WriteLine("Fredrik was here!");
             Console.WriteLine("Patrik too");
