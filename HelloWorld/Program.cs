@@ -36,7 +36,7 @@ namespace HelloWorld
             Console.WriteLine("Tanja was here!");
             Console.WriteLine("Second time Philippe was here!");
             Console.WriteLine("Filip is here");
-            Console.WriteLine("All hail the king, Marcus Aurelius Hultkrantz");
+            Console.WriteLine("All hail the king, Marcus Aurelius Hultkrantz....skoja bara :P");
             Console.ReadLine();                    
         }
 
