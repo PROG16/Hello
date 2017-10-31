@@ -26,6 +26,7 @@ namespace HelloWorld
             Console.WriteLine("Andreas was also here omg!!");
             Console.WriteLine("Nu blir det en mergekonflikt - som jag löst!");
             Console.WriteLine("Patrik too");
+            Console.WriteLine("Matilda was here!");
             Console.WriteLine("Hälsningar från Ester");
         }
 
@@ -34,7 +35,7 @@ namespace HelloWorld
             public string Speak()
             {
                 return "Jesper was here";
-            }
+            }            
         }
     }
 }
