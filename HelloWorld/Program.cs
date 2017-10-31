@@ -13,6 +13,9 @@ namespace HelloWorld
             var jesper = new Jesper();
 
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Philippe was here!");
+            Console.WriteLine("Fredrik was here!");
+            Console.WriteLine("Klas was here!");
             Console.WriteLine("Khalid was here!");
             Console.WriteLine("Fredrik was here!");
             Console.WriteLine("Patrik too");
@@ -26,8 +29,14 @@ namespace HelloWorld
             Console.WriteLine("Andreas was also here omg!!");
             Console.WriteLine("Nu blir det en mergekonflikt - som jag löst!");
             Console.WriteLine("Patrik too");
+            Console.WriteLine("Anna was here!");
             Console.WriteLine("Matilda was here!");
-            Console.WriteLine("Hälsningar från Ester");
+            Console.WriteLine("Patrik too");
+            Console.WriteLine("Cornelia här på avstånd. :) Vi ses imorgon! (Testar att faktiskt merga nu)");
+            Console.WriteLine("Tanja was here!");
+            Console.WriteLine("Second time Philippe was here!");
+            Console.WriteLine("Filip is here");
+            Console.ReadLine();
         }
 
         internal class Jesper
@@ -36,6 +45,6 @@ namespace HelloWorld
             {
                 return "Jesper was here";
             }            
-        }
+        }        
     }
 }
