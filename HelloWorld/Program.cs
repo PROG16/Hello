@@ -11,6 +11,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             var jesper = new Jesper();
+
             Console.WriteLine("Hello World!");
             Console.WriteLine("Philippe was here!");
             Console.WriteLine("Fredrik was here!");
@@ -34,6 +35,7 @@ namespace HelloWorld
             Console.WriteLine("Cornelia här på avstånd. :) Vi ses imorgon! (Testar att faktiskt merga nu)");
             Console.WriteLine("Tanja was here!");
             Console.WriteLine("Second time Philippe was here!");
+            Console.WriteLine("Filip is here");
             Console.WriteLine("All hail the king, Marcus Aurelius Hultkrantz");
             Console.ReadLine();                    
         }
@@ -43,7 +45,7 @@ namespace HelloWorld
             public string Speak()
             {
                 return "Jesper was here";
-            }          
-        }
+            }            
+        }        
     }
 }
