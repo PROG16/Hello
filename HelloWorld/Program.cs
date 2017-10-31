@@ -36,15 +36,9 @@ namespace HelloWorld
             Console.WriteLine("Tanja was here!");
             Console.WriteLine("Second time Philippe was here!");
             Console.WriteLine("Filip is here");
-<<<<<<< HEAD
             Console.WriteLine("All hail the king, Marcus Aurelius Hultkrantz....skoja bara :P");
             Console.WriteLine("kakamir was here day after this was done, and he made kicked Marcus Hultkrantz in the nuts and took the king spot ;)");
-=======
-
-            Console.WriteLine("All hail the king, Marcus Aurelius Hultkrantz....skoja bara :P");
-
             Console.WriteLine("kakamir was here day after this was done, and he kicked Marcus Hultkrantz in the nuts and took the king spot ;)");
->>>>>>> kakamir left a message
 
             Console.ReadLine();                    
         }
