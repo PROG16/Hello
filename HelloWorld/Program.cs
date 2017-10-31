@@ -39,6 +39,7 @@ namespace HelloWorld
             Console.WriteLine("All hail the king, Marcus Aurelius Hultkrantz....skoja bara :P");
             Console.WriteLine("kakamir was here day after this was done, and he made kicked Marcus Hultkrantz in the nuts and took the king spot ;)");
             Console.WriteLine("kakamir was here day after this was done, and he kicked Marcus Hultkrantz in the nuts and took the king spot ;)");
+            Console.WriteLine("Emil was here!");
 
             Console.ReadLine();                    
         }
